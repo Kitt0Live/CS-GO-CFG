@@ -1,0 +1,6 @@
+Resolution: 1280x960 Stretched
+DPI: 800
+Sensitivity in-game: 0.85
+Sensitivity windows: 6/11
+Settings in-game are set on low, MSAA is set on 2x
+NVidia Setup: http://imgur.com/a/QsEyg
